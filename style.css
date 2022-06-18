@@ -1,0 +1,15 @@
+#data {
+    color: #008080;
+    font-family: 'Roboto';
+}
+
+h1 {
+    font-family: 'Montserrat';
+}
+
+#post {
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+    background-color: #fffafa;
+}
